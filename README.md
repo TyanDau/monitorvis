@@ -9,7 +9,7 @@
 
  **使用说明：**
 1. 下载下方release安装包用于抓取winscope文件
-2. 访问http://www.winscope.net/分析winscope文件
+2. 访问 http://www.winscope.net 分析winscope文件
 
 
 ###  Release v1.0.3
