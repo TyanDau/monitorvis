@@ -7,6 +7,9 @@
 1. winscope窗口跟踪
 2. 待扩展
 
+ **使用说明：**
+1. 下载下方release安装包用于抓取winscope文件
+2. 访问http://www.winscope.net/分析winscope文件
 
 
 ###  Release v1.0.3
